@@ -447,7 +447,7 @@ Authorization: Session <token>
 |------|-------|--------|
 | Администратор | `admin@example.com` | `Admin123` |
 | Редактор | `editor@example.com` | `Editor123` |
-| Наблюдатель | `viewer@example.com` | `Viewer123!` |
+| Наблюдатель | `viewer@example.com` | `Viewer123` |
 | Неактивный | `inactive@example.com` | `Inactive123` |
 
 ### Запуск тестов
